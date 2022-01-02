@@ -1,0 +1,22 @@
+Stage1	stage1_cigarette	담뱃대	1	FALSE
+Stage1	stage1_hat	모자	1	FALSE
+Stage1	stage1_flower	특이한 색 꽃	1	FALSE
+Stage1	stage1_mushroom	버섯	1	FALSE
+Stage1	stage1_letter	초대장	1	FALSE
+Stage2	stage2_pineapple	파인애플 슬라이스	1	FALSE
+Stage2	stage2_chicken	닭다리	1	FALSE
+Stage2	stage2_peanutCandy	땅콩모양 사탕	1	FALSE
+Stage2	stage2_butter	버터	1	FALSE
+Stage2	stage2_frog	개구리	1	FALSE
+Stage2	stage2_cricketBall	크리켓 공	1	FALSE
+Stage2	stage2_lumpSugar	각설탕	1	FALSE
+Stage3	stage3_bottle	병	1	FALSE
+Stage3	stage3_greenbutterfly	나비	1	FALSE
+Stage3	stage3_key	열쇠	1	FALSE
+Stage3	stage3_medicine		1	FALSE
+Stage3	stage3_pie	파이	1	FALSE
+Stage3	stage3_radish	빨간무	1	FALSE
+Stage3	stage3_spoon	숟가락	1	FALSE
+Stage3	stage3_yellowmushroom	노란 버섯	1	FALSE
+Stage3	stage3_redbug	무당벌레	1	FALSE
+Stage4	fake	가짜	1	FALSE
